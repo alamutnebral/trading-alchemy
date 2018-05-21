@@ -1,0 +1,4 @@
+27-04: Pandas -- datatransformation and plot
+30-04: ema5/ema20 implementation
+01-05: refactoring, 'log' option added
+11-05: 1m convertation to 1h/4h (close/high/low prices), 'plotly' tries, candles implementation

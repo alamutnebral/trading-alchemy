@@ -1,0 +1,254 @@
+buy:  day 0  price: 19358
+sell: day 0  price: 19847 balance: 1004.8502429194344
+buy:  day 1  price: 18864
+sell: day 1  price: 19245 balance: 1004.7935652427797
+buy:  day 1  price: 18849
+sell: day 2  price: 19027 balance: 994.0469269068296
+buy:  day 3  price: 16520
+sell: day 3  price: 17435 balance: 1028.2627500268525
+buy:  day 3  price: 16488
+sell: day 3  price: 16860 balance: 1030.5380866247933
+buy:  day 4  price: 16496
+sell: day 4  price: 17209 balance: 1053.645563425072
+buy:  day 4  price: 15583
+sell: day 5  price: 15852 balance: 1050.498451907362
+buy:  day 5  price: 13649
+sell: day 5  price: 14069 balance: 1061.2635512697889
+buy:  day 5  price: 13448
+sell: day 6  price: 14919 balance: 1153.9114940988707
+buy:  day 6  price: 14500
+sell: day 6  price: 15615 balance: 1217.9096675148119
+buy:  day 7  price: 13501
+sell: day 8  price: 14250 balance: 1259.8400653641947
+buy:  day 8  price: 13792
+sell: day 8  price: 14438 balance: 1292.5883601739285
+buy:  day 8  price: 14157
+sell: day 8  price: 14288 balance: 1278.6049813668358
+buy:  day 9  price: 14171
+sell: day 9  price: 15444 balance: 1365.6384532530749
+buy:  day 9  price: 15158
+sell: day 9  price: 15888 balance: 1402.853241947797
+buy:  day 10 price: 15780
+sell: day 10 price: 16265 balance: 1417.1952827296152
+buy:  day 10 price: 14954
+sell: day 11 price: 15395 balance: 1429.9700759461246
+buy:  day 11 price: 14088
+sell: day 11 price: 14270 balance: 1419.5691458153674
+buy:  day 11 price: 13927
+sell: day 12 price: 14870 balance: 1485.518794235173
+buy:  day 12 price: 14358
+sell: day 12 price: 14649 balance: 1485.4545252103983
+buy:  day 13 price: 13040
+sell: day 13 price: 13407 balance: 1496.943714797128
+buy:  day 14 price: 12819
+sell: day 14 price: 13182 balance: 1508.7176185249787
+buy:  day 14 price: 13099
+sell: day 15 price: 13869 balance: 1565.5714355469927
+buy:  day 15 price: 13480
+sell: day 15 price: 13597 balance: 1547.7345613687498
+buy:  day 15 price: 13238
+sell: day 16 price: 13489 balance: 1545.6548527122482
+buy:  day 16 price: 13372
+sell: day 17 price: 15308 balance: 1734.1000216153686
+buy:  day 17 price: 14903
+sell: day 17 price: 15099 balance: 1721.9357793636686
+buy:  day 17 price: 14800
+sell: day 18 price: 15120 balance: 1724.160543776356
+buy:  day 18 price: 14595
+sell: day 19 price: 15143 balance: 1753.3183982792746
+buy:  day 19 price: 14953
+sell: day 20 price: 16960 balance: 1948.9466063655016
+buy:  day 20 price: 16500
+sell: day 21 price: 17109 balance: 1980.683509419741
+buy:  day 22 price: 15594
+sell: day 22 price: 15900 balance: 1979.3484848330645
+buy:  day 22 price: 14675
+sell: day 22 price: 15139 balance: 2001.38781988625
+buy:  day 23 price: 14971
+sell: day 23 price: 15260 balance: 1999.3954195245174
+buy:  day 24 price: 14130
+sell: day 24 price: 14454 balance: 2004.6742296217597
+buy:  day 24 price: 14300
+sell: day 25 price: 14890 balance: 2045.8441814666246
+buy:  day 25 price: 13485
+sell: day 25 price: 13951 balance: 2074.410590925502
+buy:  day 26 price: 13280
+sell: day 26 price: 13960 balance: 2137.2480345423205
+buy:  day 26 price: 13611
+sell: day 27 price: 14355 balance: 2209.191464940889
+buy:  day 27 price: 14220
+sell: day 27 price: 14247 balance: 2169.356491747889
+buy:  day 27 price: 14077
+sell: day 28 price: 14210 balance: 2146.285111773384
+buy:  day 28 price: 13359
+sell: day 29 price: 13656 balance: 2150.258229997528
+buy:  day 29 price: 13520
+sell: day 29 price: 14039 balance: 2188.349920004978
+buy:  day 31 price: 10932
+sell: day 31 price: 11230 balance: 2203.270579333298
+buy:  day 31 price: 9530 
+sell: day 32 price: 11450 balance: 2594.4828872520748
+buy:  day 32 price: 10701
+sell: day 32 price: 11785 balance: 2800.4407281508747
+buy:  day 33 price: 11177
+sell: day 33 price: 11783 balance: 2893.575959601344
+buy:  day 33 price: 11258
+sell: day 35 price: 12754 balance: 3212.7726321294026
+buy:  day 35 price: 11924
+sell: day 35 price: 12157 balance: 3210.4234953820533
+buy:  day 36 price: 11515
+sell: day 36 price: 11705 balance: 3198.6017922794626
+buy:  day 36 price: 10589
+sell: day 37 price: 10880 balance: 3220.8011366158557
+buy:  day 37 price: 10076
+sell: day 38 price: 10877 balance: 3407.6161335359693
+buy:  day 38 price: 10823
+sell: day 39 price: 11590 balance: 3576.4750595324554
+buy:  day 39 price: 10933
+sell: day 39 price: 11200 balance: 3590.865187324665
+buy:  day 40 price: 11095
+sell: day 40 price: 11490 balance: 3644.624729741171
+buy:  day 40 price: 10535
+sell: day 40 price: 11149 balance: 3780.2817540522333
+buy:  day 40 price: 10927
+sell: day 41 price: 11086 balance: 3759.2685799815226
+buy:  day 41 price: 10980
+sell: day 41 price: 11149 balance: 3741.1688826677655
+buy:  day 41 price: 10930
+sell: day 41 price: 11399 balance: 3824.348164671019
+buy:  day 42 price: 11328
+sell: day 42 price: 11509 balance: 3808.120028615497
+buy:  day 42 price: 11350
+sell: day 43 price: 11536 balance: 3793.2520973830997
+buy:  day 43 price: 10961
+sell: day 44 price: 11111 balance: 3768.4647520019885
+buy:  day 44 price: 10901
+sell: day 44 price: 10985 balance: 3722.1906251742475
+buy:  day 45 price: 9865 
+sell: day 45 price: 10212 balance: 3776.341451703863
+buy:  day 45 price: 9970 
+sell: day 46 price: 10099 balance: 3749.4300694867743
+buy:  day 46 price: 9895 
+sell: day 46 price: 10046 balance: 3731.180870231695
+buy:  day 46 price: 8700 
+sell: day 47 price: 9010  balance: 3787.4281413685653
+buy:  day 47 price: 7981 
+sell: day 47 price: 8975  balance: 4174.379580774851
+buy:  day 47 price: 8575 
+sell: day 48 price: 8798  balance: 4198.021978979594
+buy:  day 48 price: 8245 
+sell: day 48 price: 9337  balance: 4659.55838574952
+buy:  day 50 price: 6513 
+sell: day 51 price: 6950  balance: 4873.25204336221
+buy:  day 51 price: 5930 
+sell: day 52 price: 7699  balance: 6201.899588624174
+buy:  day 52 price: 7277 
+sell: day 52 price: 8148  balance: 6805.811493434343
+buy:  day 53 price: 7580 
+sell: day 53 price: 8470  balance: 7454.3991712133
+buy:  day 53 price: 8248 
+sell: day 53 price: 8385  balance: 7427.439528303462
+buy:  day 54 price: 8000 
+sell: day 55 price: 8940  balance: 8134.980247063515
+buy:  day 55 price: 8440 
+sell: day 56 price: 8540  balance: 8067.562080196086
+buy:  day 56 price: 7924 
+sell: day 56 price: 8419  balance: 8400.946128364645
+buy:  day 57 price: 8109 
+sell: day 58 price: 8880  balance: 9016.12977793099
+buy:  day 58 price: 8507 
+sell: day 58 price: 8613  balance: 8947.59457854161
+buy:  day 59 price: 8522 
+sell: day 60 price: 9807  balance: 10092.860852904088
+buy:  day 60 price: 9615 
+sell: day 60 price: 10124 balance: 10416.08844368653
+buy:  day 61 price: 10009
+sell: day 61 price: 10111 balance: 10312.436460079163
+buy:  day 61 price: 9819 
+sell: day 62 price: 10745 balance: 11059.375073830202
+buy:  day 62 price: 10729
+sell: day 63 price: 11102 balance: 11216.448054477656
+buy:  day 63 price: 10628
+sell: day 63 price: 10834 balance: 11207.344134919056
+buy:  day 64 price: 10381
+sell: day 65 price: 11540 balance: 12210.558569492472
+buy:  day 65 price: 11418
+sell: day 65 price: 11676 balance: 12238.134189648428
+buy:  day 66 price: 10905
+sell: day 66 price: 11126 balance: 12237.947119417897
+buy:  day 67 price: 10449
+sell: day 67 price: 10647 balance: 12222.499794383364
+buy:  day 68 price: 9795 
+sell: day 68 price: 10314 balance: 12614.509143148696
+buy:  day 68 price: 10037
+sell: day 69 price: 10396 balance: 12804.468473159448
+buy:  day 69 price: 9575 
+sell: day 70 price: 9667  balance: 12670.24113578117
+buy:  day 70 price: 9574 
+sell: day 70 price: 9746  balance: 12641.340316068066
+buy:  day 70 price: 9485 
+sell: day 71 price: 9629  balance: 12577.96882809326
+buy:  day 71 price: 9492 
+sell: day 72 price: 10325 balance: 13408.967980541722
+buy:  day 72 price: 10260
+sell: day 72 price: 10689 balance: 13692.50895535319
+buy:  day 72 price: 10573
+sell: day 72 price: 10660 balance: 13530.50495997685
+buy:  day 73 price: 10555
+sell: day 73 price: 10903 balance: 13698.056945891796
+buy:  day 73 price: 10498
+sell: day 73 price: 10555 balance: 13498.334880455222
+buy:  day 74 price: 10351
+sell: day 75 price: 11070 balance: 14147.377231772814
+buy:  day 75 price: 10844
+sell: day 76 price: 11460 balance: 14652.164465702754
+buy:  day 77 price: 11122
+sell: day 78 price: 11507 balance: 14857.025634736383
+buy:  day 78 price: 11479
+sell: day 78 price: 11610 balance: 14727.418695952481
+buy:  day 80 price: 10544
+sell: day 80 price: 10655 balance: 14586.214925359562
+buy:  day 81 price: 9550 
+sell: day 81 price: 9922  balance: 14854.284072145894
+buy:  day 82 price: 8727 
+sell: day 82 price: 8961  balance: 14950.4854097778
+buy:  day 82 price: 8786 
+sell: day 83 price: 9380  balance: 15643.56889700534
+buy:  day 84 price: 8635 
+sell: day 85 price: 9543  balance: 16944.519792108476
+buy:  day 85 price: 9417 
+sell: day 85 price: 9821  balance: 17319.234323501034
+buy:  day 85 price: 8931 
+sell: day 86 price: 9107  balance: 17310.575644923996
+buy:  day 86 price: 9020 
+sell: day 86 price: 9213  balance: 17328.076771787717
+buy:  day 86 price: 9053 
+sell: day 87 price: 9219  balance: 17295.906599288242
+buy:  day 88 price: 7847 
+sell: day 88 price: 8235  balance: 17790.176057839755
+buy:  day 88 price: 8119 
+sell: day 89 price: 8287  balance: 17797.824548713666
+buy:  day 89 price: 8038 
+sell: day 89 price: 8221  balance: 17842.296547700804
+buy:  day 89 price: 8180 
+sell: day 89 price: 8547  balance: 18271.428147613202
+buy:  day 91 price: 7674 
+sell: day 91 price: 7774  balance: 18142.37276377191
+buy:  day 91 price: 7455 
+sell: day 92 price: 8577  balance: 20458.27985803143
+buy:  day 92 price: 8389 
+sell: day 93 price: 8575  balance: 20493.33768854865
+buy:  day 93 price: 8383 
+sell: day 94 price: 9025  balance: 21621.18757580012
+buy:  day 94 price: 8911 
+sell: day 94 price: 9058  balance: 21540.425655855117
+buy:  day 95 price: 8891 
+sell: day 95 price: 9020  balance: 21416.156019190545
+buy:  day 95 price: 8603 
+sell: day 96 price: 8710  balance: 21248.740752249185
+buy:  day 96 price: 8400 
+sell: day 97 price: 8919  balance: 22114.466478481532
+buy:  day 97 price: 8705 
+sell: day 97 price: 8905  balance: 22171.548601528666
+buy:  day 98 price: 8429 
+sell: day 98 price: 8616  balance: 22212.583234396
